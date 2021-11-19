@@ -1,4 +1,4 @@
-baseURL = "https://simplewords.github.io/"
+baseURL = "http://trissicorn.github.io/simplewords/"
 title = "Website Name"
 theme = "etch"
 languageCode = "en-US"
