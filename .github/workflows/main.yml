@@ -29,4 +29,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository: trissicorn/simplewords.github.io
+          publish_branch: master
           publish_dir: ./public
