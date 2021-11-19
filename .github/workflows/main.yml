@@ -27,7 +27,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3.7.3
         if: github.ref == 'refs/heads/main'
         with:
-          personal_token: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           external_repository: trissicorn/simplewords.github.io
           publish_dir: ./public
           user_name: trissicorn
