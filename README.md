@@ -1,2 +1,2 @@
 # simplewords-versioning
-This repo is for storing the code of simplewords.
+This repo is for storing the markdown-code of simplewords.
