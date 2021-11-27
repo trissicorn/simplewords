@@ -1,4 +1,4 @@
 ---
 title: "Home"
 ---
-This is some info about me. i really hope this worksgdgdfgdfg
+This is page that contain simple words.
