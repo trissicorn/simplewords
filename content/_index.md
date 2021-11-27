@@ -1,4 +1,4 @@
 ---
 title: "Home"
 ---
-This is page that contain simple words.
+This is page that contains simple words.
